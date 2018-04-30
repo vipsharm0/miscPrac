@@ -1,0 +1,12 @@
+div{
+    border:1px solid black;
+}
+
+.outerdiv{
+    width:100%;
+    margin:0px auto;
+}
+.innerdiv{
+    width:50%;
+    margin:0px auto;
+}
